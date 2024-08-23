@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    height: 350vh;
+  }
+  
+  .navbar-bg {
+    background-color: black;
+    border: 1px solid rgba(172, 8, 150, 0.818);
+  }
+  
+  .logo {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .logo:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .toggler {
+    background-color: rgba(172, 8, 150, 0.818);
+    border-radius: 30px;
+    border: 2px solid rgba(172, 8, 150, 0.818);
+  }
+  
+  .toggler:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .home {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .home:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .skills {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .skills:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .projects {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .projects:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .about {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .about:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .contact {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+  }
+  
+  .contact:hover {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .heading {
+    color: black;
+    font-weight: bold;
+    font-size: 45px;
+    padding: 20px;
+  }
+  .para {
+    color: black;
+    font-weight: normal;
+    font-size: 26px;
+  }
+  
+  .btn {
+    color: black;
+    background-color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    border-radius: 2px solid rgba(172, 8, 150, 0.818);
+  }
+  
+  .btn:hover {
+    color: black;
+    background-color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    border-radius: 2px solid rgba(172, 8, 150, 0.818);
+  }
+  
+  .img {
+    padding: 30px;
+    height: 40vh;
+    width: 38vw;
+    border-radius: 50%;
+    background-color: black;
+  }
+  
+  .skills-heading {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    font-size: 45px;
+  }
+  
+  .skills-para {
+    font-size: 26px;
+    font-weight: normal;
+  }
+  
+  .projects-heading {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    font-size: 45px;
+  }
+  .about-heading {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    font-size: 45px;
+  }
+  .about-para {
+    font-size: 23px;
+    font-weight: normal;
+  }
+  .about-img {
+    height: 40vh;
+    width: 38vw;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+  }
+  .contact-heading {
+    color: rgba(172, 8, 150, 0.818);
+    font-weight: bold;
+    font-size: 45px;
+  }
+  .card-1 {
+    height: 120px;
+    background-color: black;
+    border: 1px rgba(172, 8, 150, 0.818) solid;
+    border-radius: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .card-para {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .card-img-top-1 {
+    height: 110px;
+    width: 60px;
+  }
+  
+  .card-2 {
+    height: 330px;
+    color: white;
+    border: 2px rgba(172, 8, 150, 0.818) solid;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-img-top-2 {
+    height: 155px;
+    width: 285px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .card-3 {
+    height: 20vh;
+    border: 1px rgba(172, 8, 150, 0.818) solid;
+    border-radius: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-img-top-3 {
+    height: 50px;
+    width: 60px;
+    padding: 5px;
+  }
+  .img-1 {
+    height: 20px;
+    width: 30px;
+  }
+  
+  .card {
+    height: 190px;
+    width: 80vw;
+    color: white;
+  }
+  
+  .card-body {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  .c-b {
+    background-color: black;
+  }
+  
+  .card-text {
+    color: rgba(172, 8, 150, 0.818);
+  }
+  
+  .container-1 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+  }
